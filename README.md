@@ -1,0 +1,1 @@
+<ul>Binned Predictor</ul>: An attempt to leverage quantization and normalization to make a trainable timeseries model on your custom dataset; Conceptually similar to [Chronos](https://arxiv.org/abs/2403.07815) but this is trained from scratch on a given dataset, rather than a zero-shot foundation model.
